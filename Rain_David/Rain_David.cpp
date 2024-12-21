@@ -9,6 +9,7 @@ int main()
 	cv::Mat src = cv::imread("../../Users/dongu/Downloads/lena.png", cv::IMREAD_GRAYSCALE);
 	cv::imshow("lena", src);
 	cv::waitKey(0);
+// 유호'근'
 	return 0;
 }
 
