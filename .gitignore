@@ -10,11 +10,15 @@
 # Precompiled Headers
 *.gch
 *.pch
+#except
+RAIN_DAVID.ipch
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+# *.dll
+#except
+opencv_world4100d.dll
 
 # Fortran module files
 *.mod
